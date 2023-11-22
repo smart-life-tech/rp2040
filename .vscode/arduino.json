@@ -1,4 +1,4 @@
 {
-    "board": "arduino:avr:uno",
-    "sketch": "interrupt/interrupt.ino"
+    "board": "arduino:mbed_rp2040:pico",
+    "sketch": "interrupt\\interrupt.ino"
 }

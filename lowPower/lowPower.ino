@@ -1,4 +1,4 @@
-#include <ArduinoLowPower.h>
+//#include <ArduinoLowPower.h>
 
 #define LED_PIN 25
 #define TOUCH_SENSOR_PIN 2
@@ -39,7 +39,7 @@ void loop()
         if (millis() - lastTouchTime >= sleepDelay)
         {
             // Put the device to sleep
-            LowPower.sleep();
+           // LowPower.sleep();
             // The program resumes from here when it wakes up
         }
 

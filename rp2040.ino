@@ -1,7 +1,8 @@
 // Define the GPIO pin for the LED and touch sensor
 #define LED_PIN 25        // Replace with the actual GPIO pin for the LED
 #define TOUCH_SENSOR_PIN 2 // Replace with the actual GPIO pin for the touch sensor
-
+#include "pico/stdlib.h"
+#include "hardware/gpio.h"
 void setup() {
   pinMode(LED_PIN, OUTPUT);
   pinMode(TOUCH_SENSOR_PIN, INPUT);
