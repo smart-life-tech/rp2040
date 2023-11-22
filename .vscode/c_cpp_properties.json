@@ -12,7 +12,6 @@
             "includePath": [
                 "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.8\\cores\\arduino",
                 "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.8\\variants\\RASPBERRY_PI_PICO",
-                "C:\\Users\\USER\\Documents\\Arduino\\libraries\\ArduinoLowPower-master\\src",
                 "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.8\\cores\\arduino\\api\\deprecated",
                 "C:\\Users\\USER\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.8\\cores\\arduino\\api\\deprecated-avr-comp",
                 "c:\\users\\user\\appdata\\local\\arduino15\\packages\\arduino\\tools\\arm-none-eabi-gcc\\7-2017q4\\arm-none-eabi\\include\\c++\\7.2.1",
