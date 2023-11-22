@@ -1,4 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "rp2040.ino"
+    "sketch": "interrupt/interrupt.ino"
 }
